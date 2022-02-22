@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe resolution, of that grand case of conscience (necessary for these times) concerning the allegiance due to a prince ejected by force out of his kingdome, and how farre the subjects may comply with a present vsurped power</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29481</idno>
+            <idno type="STC">Wing B4644</idno>
+            <idno type="STC">ESTC R6760</idno>
+            <idno type="EEBO-CITATION">11612986</idno>
+            <idno type="OCLC">ocm 11612986</idno>
+            <idno type="VID">47908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe resolution, of that grand case of conscience (necessary for these times) concerning the allegiance due to a prince ejected by force out of his kingdome, and how farre the subjects may comply with a present vsurped power</title>
+               </titleStmt>
+               <extent>[2], 6 p. ;  19 cm. </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47908:1"/>
+            <pb facs="tcp:47908:1" rendition="simple:additions"/>
+            <p>A Briefe <hi>RESOLUTION, Of that Grand</hi> CASE Of CONSCIENCE <hi>(Neceſſary for theſe Times) CONCERNING</hi> The Allegiance due to a PRINCE Ejected by force out of His <hi>KINGDOME, AND</hi> How farre the <hi>SUBJECTS</hi> may comply with a preſent <g ref="char:V">Ʋ</g>ſurped Power.</p>
+            <p>LONDON, <hi>Printed in the Yeare, M.DC.L.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47908:2"/>
+            <pb n="1" facs="tcp:47908:2"/>
+            <head>
+               <hi>A brief Reſolution, of that grand Caſe of Conſcience, concerning</hi> the Allegiance due to a PRINCE ejected by force out of his <hi>Kingdome.</hi>
+            </head>
+            <div type="part">
+               <head>Queſtion.</head>
+               <p>DOth not Victory give a right to the Conquerour?</p>
+               <p>And doth it not thence follow, that he which is ejected out of his King<g ref="char:EOLhyphen"/>dome, by force of a prevailing Partie, hath thereby loſt his right of <hi>Allegiance</hi> from his former Subjects?</p>
+               <p>And is not then that right devolved on the <hi>Conquerour,</hi> by the force of theſe words of <hi>God,</hi> when he ſaith, <hi>Dan.</hi> 4. 17. <hi>&amp;</hi> 25.32. that <hi>he ruleth in the Kingdome of men, and giveth it to whomſoever he will, and ſetteth up over it the baſeſt of men?</hi> And of <hi>Ecclus.</hi> 10. 8. <hi>becauſe of unrighte<g ref="char:EOLhyphen"/>ouſneſſe—the
+<pb n="2" facs="tcp:47908:3"/>the Kingdome is tranſlated from one people to another?</hi>
+               </p>
+               <p>And when he doth ſo, are not all Members of ſuch a Kingdome obliged (as the <hi>Iſraelites</hi> in their deportation to <hi>Babylon</hi>) to yeild obedience to the <hi>Con<g ref="char:EOLhyphen"/>querour?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anſwer.</head>
+               <p>This Objection conſiſts of divers Branches, and I ſhall anſwer it by degrees:</p>
+               <p n="1">1. That all Victory doth not give a right to the <hi>Con<g ref="char:EOLhyphen"/>querour,</hi> but onely when the Warre being founded on a juſt Cauſe, that juſt Cauſe hath thus been bleſt with Victory. And when that is, depends wholly on the ſtating of that Queſtion concerning the Lawfulneſſe of any Warre.</p>
+               <p>Now becauſe there never can be juſt Warre on the <hi>Subjects</hi> part againſt their <hi>Soveraigne</hi> becauſe they want the warrant of Supreame Authority, without which (though the Cauſe be never ſo juſt, and the End never ſo good) all the blood that is ſhed, is no better than Murther; Therefore though the <hi>Subjects</hi> in ſuch a Warre ſhould prevaile againſt their <hi>Soveraigne,</hi> yet neither is He hereby diverted of Her juſt Right, nor they inverted therewith, becauſe the Warre was wholly unjuſt on their part for want of Authority.</p>
+               <pb n="3" facs="tcp:47908:3"/>
+               <p n="2">2. Therefore if that Party whoſe Cauſe is unjuſt, ſhall yet prevaile and prove ſucceſfull, then in anſwer to the Branch, I ſay, that there is no Right acquired by this: For, tis a miſtake to thinke that this is the meaning of <hi>Jus Victoria, the Right of Victory,</hi> which the <hi>Civill Law<g ref="char:EOLhyphen"/>yers</hi> ſpeake of, as if <hi>God</hi> had by this <hi>lottery</hi> teſtified his Judgment of the Right, and pronounced that Juſt now, which was Unjuſt before; or that the preſent Forces is alwaies to be looked on as the <hi>Higher Powers,</hi> and al<g ref="char:EOLhyphen"/>lowed the Obedience required by the <hi>Apoſtle,</hi> as due to them, w<hi rend="sup">cg</hi> is the miſtaking of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Power,</hi> for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> and agrees with that ſpeech of the <hi>Atheiſts, Wiſ.</hi> 2. <hi>Our ſtrength is the Law of Juſtice, and that which is feeble is found to be nothing worth.</hi> And we know tis Gods or<g ref="char:EOLhyphen"/>dinary diſpenſation now under the <hi>Goſpel</hi> to permit Vio<g ref="char:EOLhyphen"/>lence to oppreſſe the Godly, which ſure is no Argument, that thoſe proſperous Ungodly have the ſole Right to the Poſ2eſſions of the World, or that the oppreſt Godly Man ſhall no longer be thought to be oppreſt, when the proſperous Oppreſſour is arrived at the height of his op<g ref="char:EOLhyphen"/>preſſion.</p>
+               <p n="3">3. The Queſtion then being removed from the title of <hi>force</hi> (which being it ſelf unjuſt, cannot conferre Right on any) It muſt next be conſidered what <hi>dedition</hi> (that is, yeilding or reſigning up of ones Right) can doe, That will be of two ſorts, either of the <hi>Prince,</hi> or the <hi>People;</hi> and againe, either <hi>Voluntary,</hi> or <hi>Involuntary.</hi>
+               </p>
+               <p>A <hi>Voluntary dedition, or yielding up,</hi> of the rightfull Poſſeſſor, if he be a private Man, transfers a Right. But a <hi>Prince</hi> being a publique Perſon, and having an obliga<g ref="char:EOLhyphen"/>tion of protection to His Subjects, cannot without ſome
+<pb n="4" facs="tcp:47908:4"/>breach of that obligation abdicate his <hi>Kingdome,</hi> nor conſequently voluntarily yeild up His Power, or if He doe, He cannot transferre the Right to any (ſave to the lawful Heire or Succeſſour) without the tacit or expreſſe conſent of the People alſo.</p>
+               <p>But in caſe they conſent alſo, then will this Right <hi>(in Kingdomes Elective)</hi> be transferred by the joynt yeilding of the King and His Subjects. As for Kingdomes Here<g ref="char:EOLhyphen"/>ditary, the Subjects conſent is not neceſſary, but the Kings yeilding up of his right alone, is ſufficient to tranſ<g ref="char:EOLhyphen"/>ferre the right to the next Heire. Neither can the joynt act both of King and People transferre this right from the next Heire to any other. The Kings yeilding is an abſolution of the Subjects from the alegiance formerly due to Him by them, and ſo makes it lawfull for them to yeild the ſame to another, and when 'tis thus free and lawfull to them, the intervention of their owne act alſo becomes obligation on them to ſubmit to that Perſon ſo yeilded to. And when this is done (in <hi>Kingdomes Ele<g ref="char:EOLhyphen"/>ctive</hi>) and withall when no Heire is left to make claime, or the claime relinquiſht by the right Heire, in <hi>Kingdomes Hereditary,</hi> then is the Kingdome removed and given by God (who now rules not immediately among us, as he did in the time of the <hi>Theocracy</hi> among the <hi>Jewes,</hi> but is then ſaid to remove a Kingdome when his providence ſo diſpoſes, that by the Lawes and right among Men it is removed) to another.</p>
+               <p>But till this be done, <hi>i. e.</hi> till <hi>He,</hi> or <hi>They</hi> in whom the right both of <hi>preſent poſſeſsion,</hi> and <hi>future claime by inhe<g ref="char:EOLhyphen"/>ritance,</hi> is truly verted do voluntarily yeild up that right, and when that is done, till they which by their yeilding are freed from their former bands doe now by their owne act enter into new, what force ſoever there be, and how
+<pb n="5" facs="tcp:47908:4"/>ſucceſsfull ſoever the force, there is not thereby any ſuch Victory compleated as ſhall be able to conferre Right on the Victor, nor remove it from him that hath, and ſtill proteſts his Right though as yet he be not ſtrong enough to vindicate it.</p>
+               <p n="4">4. But then in the next place, if there be a dedition or yeilding up by the King, and that dedition involuntary, that is, ſuch as nothing but the preſent ſucceſſe of the force hath inclined him to, then certainly doth it not ſo divert him of his right, as that it ſhall be unlawfull for him, when he can to make claime and recover it againe. As he that by a violent Invader is made to ſweare to pay ſuch a ſumme of money; it is acknowledged lawfull for him to implead that Thieſe, and recover from him, what in performance of that involuntary Oath he hath paid him.</p>
+               <p>In this caſe the difficulty is, what condition thoſe <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> are left in, for that time betwixt the involuntary <hi>de<g ref="char:EOLhyphen"/>dition</hi> of the <hi>King,</hi> and his renewing his <hi>claime,</hi> and the ſolution muſt be, that a proportion be obſerved between the Act of the King, and the Subjects conſequehnt Act: The Act of the King is but a <hi>preſent dedition,</hi> and doth not oblige Him never to make any after-claime againe; and conſequently, this gives not any ſuch abſolution to the Subjects, as that they may doe any thing which ſhall prejudice that future claime, or blemiſh his <hi>royalty,</hi> ſuch as are taking new Oathers of <hi>Allegiance, abjurations</hi> of Him &amp; his Iſſue, <hi>Engagements</hi> to the uſurped power, &amp;c. All that it can doe, is to make it free for them to ſubmit to ſuch other things of an inferiour nature (which in<g ref="char:EOLhyphen"/>cludes not any ſuch blemiſhme<g ref="char:cmbAbbrStroke">̄</g>t of the <hi>rights</hi> of the law<g ref="char:EOLhyphen"/>full Prince) provided that they acknowledge not the law<g ref="char:EOLhyphen"/>fulneſſe
+<pb n="6" facs="tcp:47908:5"/>of the preſent uſurped Power, nor act as Mini<g ref="char:EOLhyphen"/>ſters or Inſtruments thereof. And this is the utmoſt that ſeems poſſible to determine in this matter.</p>
+               <p n="5">5. As for that power which <hi>tract of time</hi> may be thought to have in this buſineſſe, that is not conſiderable where the claime is Continued (for that argues the Dedi<g ref="char:EOLhyphen"/>tion involuntary) and much leſſe when there is no Dedi<g ref="char:EOLhyphen"/>tion at all, for there twas before ſuppoſed that force can<g ref="char:EOLhyphen"/>not conferre right.</p>
+               <p n="6">6. And if by this ſtating of the Caſe, it follow that the lot of the faithfull Subjects muſt be very unhappy at this time, and that great diſorder muſt neceſſarily continue in ſuch a broken Kingdome, as long as the Contention be<g ref="char:EOLhyphen"/>tween the violent <hi>Uſurper</hi> and the juſt <hi>Owner</hi> thus re<g ref="char:EOLhyphen"/>mains undecided. I anſwer, that this is oft the lot of the moſt pious Men under the Goſpel, <hi>who have their good things here mixt with tribulations,</hi> and muſt content themſelves in the ſolaces of a good conſcience, in per<g ref="char:EOLhyphen"/>forming thoſe duties which coſt them deareſt, and ex<g ref="char:EOLhyphen"/>pect their full payment of joyes without hardſhips to be payd them in another world.</p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
